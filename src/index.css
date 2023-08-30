@@ -143,3 +143,62 @@ button:focus-visible {
   font-size: small;
   text-align: center;
 }
+
+.offcanvas{
+  background-color: #128CEB;
+}
+
+.offcanvas-title{
+  color: #128CEB;
+}
+
+.btn-close{
+  color: white;
+}
+
+.text-bar{
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: small;
+  margin: 2%;
+}
+
+.img-regist{
+  width: 75%;
+  margin-left: 18%;
+}
+
+.text-1{
+  font-size: x-large;
+}
+
+.text-2{
+  font-size: 90%;
+  color: #464545;
+  text-align: center;
+}
+
+.card{
+  background-color: #ECF0F1;
+}
+
+.login-button{
+  text-decoration: none;
+  color: #EF6C00;
+  font-weight: bold;
+}
+
+.login-text{
+  text-align: center;
+}
+
+.forgot-pass{
+  text-align: center;
+  font-size: small;
+}
+
+.judul-hewan{
+  font-weight: bold;
+  font-size: large;
+  color: #686464;
+}
